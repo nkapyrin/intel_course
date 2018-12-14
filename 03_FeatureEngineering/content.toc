@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Пространство признаков}{4}{0}{1}
+\beamer@sectionintoc {2}{Методы подбора признаков}{35}{0}{2}
+\beamer@subsectionintoc {2}{1}{PCA}{36}{0}{2}
+\beamer@subsectionintoc {2}{2}{ICA}{69}{0}{2}
+\beamer@subsectionintoc {2}{3}{Autoencoders}{84}{0}{2}
